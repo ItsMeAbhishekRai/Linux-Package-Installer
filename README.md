@@ -57,5 +57,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License.
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/itsmeabhishekrai)
+Abhishek Rai - [GitHub Profile](https://github.com/itsmeabhishekrai)
 
